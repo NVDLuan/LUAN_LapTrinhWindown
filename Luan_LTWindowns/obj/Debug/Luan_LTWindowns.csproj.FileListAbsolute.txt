@@ -1,0 +1,11 @@
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\bin\Debug\Luan_LTWindowns.exe.config
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\bin\Debug\Luan_LTWindowns.exe
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\bin\Debug\Luan_LTWindowns.pdb
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.csproj.AssemblyReference.cache
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.frmTinhToan.resources
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.Properties.Resources.resources
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.csproj.GenerateResource.cache
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.exe
+D:\LapTrinhWindown\Luan_LTWindowns\Luan_LTWindowns\obj\Debug\Luan_LTWindowns.pdb
